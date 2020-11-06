@@ -1,6 +1,6 @@
 # Cookiecutter ruby console project
 
-This is my tiny template for a small console Ruby project
+This is rafadc's tiny template for a small console Ruby project, which I've modified to better fit my current setup.
 
 # Usage
 
@@ -15,7 +15,7 @@ bundle install
 Start guard with
 
 ``` shell
-guard -d
+bundle exec guard
 ```
 
 ## Debugging
